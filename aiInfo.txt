@@ -1,0 +1,2 @@
+Search URLS are in the format:
+[url]/browse/filter/t/[query with "%20" between words]/k/[search type]
